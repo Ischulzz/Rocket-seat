@@ -1,0 +1,27 @@
+{
+  "name": "rocket_seat",
+  "version": "1.0.0",
+  "description": "Projeto next level week da rocketseat",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ischulzz/Rocket-seat.git"
+  },
+  "keywords": [],
+  "author": "Ischulz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ischulzz/Rocket-seat/issues"
+  },
+  "homepage": "https://github.com/Ischulzz/Rocket-seat#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
